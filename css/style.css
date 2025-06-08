@@ -1,0 +1,42 @@
+body {
+	background-color: rgb(15, 15, 15);
+	color: white;
+	font-family: monospace;
+}
+
+.hero {
+	text-align: center;
+}
+
+.hero__container {
+}
+
+.hero__title {
+}
+
+.button {
+}
+
+.button--primary {
+}
+
+.hero__button {
+}
+
+.footer {
+}
+
+.footer__container {
+}
+
+.footer__social-list {
+}
+
+.footer__social-item {
+}
+
+.footer__social-link {
+}
+
+.footer__copyright {
+}
