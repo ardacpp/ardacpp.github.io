@@ -1,7 +1,12 @@
-body {
-	background-color: rgb(15, 15, 15);
-	color: white;
+* {
+	margin: 0;
+	padding: 0;
 	font-family: monospace;
+	color: #fff;
+}
+
+.site {
+	background-color: black;
 }
 
 .hero {
